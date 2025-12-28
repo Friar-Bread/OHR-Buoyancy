@@ -1,2 +1,2 @@
-# Manim Buoyancy
+# OHR Buoyancy
 
